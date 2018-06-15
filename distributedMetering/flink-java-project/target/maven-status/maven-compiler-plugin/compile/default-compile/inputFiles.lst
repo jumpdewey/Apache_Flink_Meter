@@ -1,8 +1,0 @@
-/home/weidu/flink_projects/intern_proj/distributedMetering/flink-java-project/src/main/java/org/apache/flink/quickstart/TestDataAggregation.java
-/home/weidu/flink_projects/intern_proj/distributedMetering/flink-java-project/src/main/java/org/apache/flink/quickstart/App.java
-/home/weidu/flink_projects/intern_proj/distributedMetering/flink-java-project/src/main/java/org/apache/flink/quickstart/ECSEvent.java
-/home/weidu/flink_projects/intern_proj/distributedMetering/flink-java-project/src/main/java/org/apache/flink/quickstart/TestDataGenerator.java
-/home/weidu/flink_projects/intern_proj/distributedMetering/flink-java-project/src/main/java/org/apache/flink/quickstart/TestData.java
-/home/weidu/flink_projects/intern_proj/distributedMetering/flink-java-project/src/main/java/org/apache/flink/quickstart/DataSourceFormat.java
-/home/weidu/flink_projects/intern_proj/distributedMetering/flink-java-project/src/main/java/org/apache/flink/quickstart/Meter.java
-/home/weidu/flink_projects/intern_proj/distributedMetering/flink-java-project/src/main/java/org/apache/flink/quickstart/CheckpointedDataSource.java

@@ -1,0 +1,10 @@
+org/apache/flink/quickstart/Meter$Window.class
+org/apache/flink/quickstart/TestData.class
+org/apache/flink/quickstart/ECSEvent.class
+org/apache/flink/quickstart/CheckpointedDataSource$DataType.class
+org/apache/flink/quickstart/TestDataGenerator.class
+org/apache/flink/quickstart/App.class
+org/apache/flink/quickstart/CheckpointedDataSource.class
+org/apache/flink/quickstart/DataSourceFormat.class
+org/apache/flink/quickstart/TestDataAggregation.class
+org/apache/flink/quickstart/Meter.class
